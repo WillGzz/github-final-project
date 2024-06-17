@@ -9,3 +9,5 @@
 
 ### Output
    simple interest = p*t*r
+
+#### More On [Contributing](CONTRIBUTING.md)..
